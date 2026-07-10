@@ -170,7 +170,7 @@ Dashboard
 ## Clone Repository
 
 ```bash
-[git clone https://github.com/gitsbhumika22/Blood_Hero.git](https://github.com/gitsbhumika22/Blood_Hero.git)
+https://github.com/gitsbhumika22/Blood_Hero.git
 ```
 
 ## Navigate to Project
